@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Notebook Lenovo",
+    "price": 3200,
+    "storage_capacity": 512,
+    "ram": 6,
+    "processor": "Ryzen 5"
+  },
+  {
+    "id": 2,
+    "name": "Notebook Acer Aspire",
+    "price": 1899,
+    "storage_capacity": 128,
+    "ram": 4,
+    "processor": "Celeron N4020"
+  },
+  {
+    "id": 3,
+    "name": "Notebook Dell XPS",
+    "price": 12500,
+    "storage_capacity": 1024,
+    "ram": 32,
+    "processor": "Core i9"
+  },
+  {
+    "id": 4,
+    "name": "Notebook Samsung Book Slim",
+    "price": 4200,
+    "storage_capacity": 256,
+    "ram": 8,
+    "processor": "Core i5"
+  },
+  {
+    "id": 5,
+    "name": "Notebook Asus VivoBook",
+    "price": 2800,
+    "storage_capacity": 1024,
+    "ram": 8,
+    "processor": "Ryzen 5"
+  },
+  {
+    "id": 6,
+    "name": "Notebook HP Pavilion Gaming",
+    "price": 6700,
+    "storage_capacity": 512,
+    "ram": 16,
+    "processor": "Ryzen 7"
+  },
+  {
+    "id": 7,
+    "name": "Notebook Apple MacBook Air",
+    "price": 9800,
+    "storage_capacity": 256,
+    "ram": 8,
+    "processor": "Apple M2"
+  },
+  {
+    "id": 8,
+    "name": "Notebook Positivo Motion",
+    "price": 1499,
+    "storage_capacity": 64,
+    "ram": 4,
+    "processor": "Celeron N4000"
+  },
+  {
+    "id": 9,
+    "name": "Notebook Lenovo Legion",
+    "price": 11200,
+    "storage_capacity": 2048,
+    "ram": 32,
+    "processor": "Core i7"
+  },
+  {
+    "id": 10,
+    "name": "Notebook Multilaser Legacy",
+    "price": 1699,
+    "storage_capacity": 128,
+    "ram": 4,
+    "processor": "Celeron N4020"
+  },
+  {
+    "id": 11,
+    "name": "Notebook Dell Inspiron",
+    "price": 3599,
+    "storage_capacity": 512,
+    "ram": 8,
+    "processor": "Core i5"
+  },
+  {
+    "id": 12,
+    "name": "Notebook Asus ZenBook",
+    "price": 5900,
+    "storage_capacity": 512,
+    "ram": 16,
+    "processor": "Core i7"
+  },
+  {
+    "id": 13,
+    "name": "Notebook Acer Nitro",
+    "price": 7400,
+    "storage_capacity": 1024,
+    "ram": 16,
+    "processor": "Ryzen 7"
+  },
+  {
+    "id": 14,
+    "name": "Notebook Samsung Book Go",
+    "price": 2600,
+    "storage_capacity": 256,
+    "ram": 8,
+    "processor": "Snapdragon 7c"
+  },
+  {
+    "id": 15,
+    "name": "Notebook HP Envy",
+    "price": 8300,
+    "storage_capacity": 512,
+    "ram": 16,
+    "processor": "Core i7"
+  }
+]
